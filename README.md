@@ -35,5 +35,5 @@ Como Usar
 
 ## 🖼️ Tela Inicial : 
 
-![image](https://github.com/betafontes/personal-portfolio/assets/70981960/9d008f19-e224-486e-a516-d058ceabec57)
+![image](https://github.com/grazygarcia/compra_ingressos/blob/main/assets/page_inicial.png)
 
